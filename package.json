@@ -26,7 +26,7 @@
     "mock-require": "^3.0.3",
     "moment": "^2.24.0",
     "mongodb": "2.2.33",
-    "mongoose": "^5.5.2",
+    "mongoose": "^5.7.5",
     "node-fetch": "^2.6.0",
     "sinon": "^7.3.2"
   },
